@@ -1,0 +1,15 @@
+/* style.css */
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    padding: 20px;
+}
+
+.item {
+    background-color: yellow;
+    border: solid 1px black;
+    height: 50px;
+}

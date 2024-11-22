@@ -1,0 +1,1 @@
+<h1>Đây là trang index của product</h1>
